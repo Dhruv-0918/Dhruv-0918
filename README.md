@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruv-0918&show_icons=true&theme=radical&rank_icon=github" alt="My GitHub Stats"/>
 </a>
 <a href="https://github.com/Dhruv-0918">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="My Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="C++ and Java"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I believe that **clear communication** is just as important as **clean code**. I
 * 🤝 I’m looking to collaborate on beginner-friendly open-source projects.
 * 💬 Ask me about anything related to C++, Java, or my web development journey!
 * 📫 How to reach me: **[dhruv.chourasiya18@gmail.com]**
-* 🇮🇳 Fun fact: I'm based in the beautiful city of Bhopal, India. It's currently `Wednesday, August 20, 2025` here!
+* 🇮🇳 Fun fact: I'm based in the beautiful city of Jabalpur, India. It's currently `Wednesday, August 20, 2025` here!
 
 ---
 
@@ -84,10 +84,3 @@ You can find me on:
   <a href="https://https://www.linkedin.com/in/dhruv-chourasiya-6a657b340" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-chourasiya" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_HANDLE" height="30" width="40" />
-  </a>
-  <a href="https://your-portfolio-website.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="My Portfolio" height="30" width="40" />
-  </a>
-</p>

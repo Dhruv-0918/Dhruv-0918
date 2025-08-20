@@ -6,7 +6,7 @@
 <a href="https://github.com/Dhruv-0918">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="C++ and Java"/>
 </a>
-
+C++ and Java
 <br/>
 <br/>
 

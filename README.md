@@ -4,9 +4,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruv-0918&show_icons=true&theme=radical&rank_icon=github" alt="My GitHub Stats"/>
 </a>
 <a href="https://github.com/Dhruv-0918">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="C++ and Java"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="C++ and Java"/> C++ and Java
 </a>
-C++ and Java
 <br/>
 <br/>
 

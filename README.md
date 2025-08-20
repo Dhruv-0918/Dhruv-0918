@@ -84,3 +84,4 @@ You can find me on:
   <a href="https://https://www.linkedin.com/in/dhruv-chourasiya-6a657b340" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-chourasiya" height="30" width="40" />
   </a>
+</p>

@@ -1,13 +1,6 @@
 # Hi there, I'm [Dhruv Chourasiya]! 👋
 
-<a href="https://github.com/Dhruv-0918">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruv-0918&show_icons=true&theme=radical&rank_icon=github" alt="My GitHub Stats"/>
-</a>
-<a href="https://github.com/Dhruv-0918">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-0918&layout=compact&theme=radical" alt="C++ and Java"/>
-</a>
-<br/>
-<br/>
+
 
 I'm a passionate developer currently transitioning into the world of **Web Development**. My journey started with a solid foundation in object-oriented programming through **C++** and **Java**, and now I'm excited to apply that logical problem-solving mindset to building beautiful and intuitive experiences on the web.
 

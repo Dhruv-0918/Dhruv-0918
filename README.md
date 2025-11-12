@@ -60,7 +60,7 @@ Here are some of the technologies I've been working with:
 
 *... and I'm always eager to learn more!*
 
-------
+----------
 
 ### 🌐 Let's Connect!
 

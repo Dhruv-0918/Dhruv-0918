@@ -1,4 +1,4 @@
-# Hi there, I'm [Dhruv Chourasiya]! 👋
+# Hi there, I'm Dhruv Chourasiya! 👋
 
 
 
@@ -15,7 +15,7 @@ I believe that **clear communication** is just as important as **clean code**. I
 * 🤝 I’m looking to collaborate on beginner-friendly open-source projects.
 * 💬 Ask me about anything related to C++, Java, or my web development journey!
 * 📫 How to reach me: **[dhruv.chourasiya18@gmail.com]**
-* 🇮🇳 Fun fact: I'm based in the beautiful city of Jabalpur, India. It's currently `Wednesday, August 20, 2025` here!
+* 🇮🇳 Fun fact: I'm based in the beautiful city of Jabalpur, India.
 
 ---
 

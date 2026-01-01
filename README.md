@@ -6,18 +6,6 @@ I'm a passionate developer currently transitioning into the world of **Web Devel
 
 I believe that **clear communication** is just as important as **clean code**. I thrive in collaborative environments and enjoy turning complex ideas into reality.
 
----
-
-### 🚀 What I'm Up To
-
-* 🌱 I’m currently diving deep into **[Front-end, SQL,React**.
-* 🔭 I’m currently working on *[My own portfolio website]**.
-* 🤝 I’m looking to collaborate on beginner-friendly open-source projects.
-* 💬 Ask me about anything related to C++, Java, or my web development journey!
-* 📫 How to reach me: **[dhruv.chourasiya18@gmail.com]**
-* 🇮🇳 Fun fact: I'm based in the beautiful city of Jabalpur, India.
-
----
 
 ### 💻 My Tech Stack
 

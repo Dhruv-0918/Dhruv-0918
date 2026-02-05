@@ -1,7 +1,6 @@
 # Hi there, I'm Dhruv Chourasiya.
 .
 .
-.
 
 
 I'm a passionate developer currently transitioning into the world of **Web Development**. My journey started with a solid foundation in object-oriented programming through **C++** and **Java**, and now I'm excited to apply that logical problem-solving mindset to building beautiful and intuitive experiences on the web.
